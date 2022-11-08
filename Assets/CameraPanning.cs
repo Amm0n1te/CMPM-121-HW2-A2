@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//skybox commit5
+//new repo commit
 
 public class CameraPanning : MonoBehaviour
 {
